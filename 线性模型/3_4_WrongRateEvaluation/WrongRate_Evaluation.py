@@ -83,7 +83,8 @@ def my_KFold(X,y,k=10):
     
     return sum_accu/10
 
-#LOO留一法（只留下一个作为测试用例）
+#LOO留一法（只留下一个作为测试用例）d
+
 
 
 
